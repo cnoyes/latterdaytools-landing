@@ -10,13 +10,14 @@ This is a Next.js application that serves as a portfolio showcase for various da
 
 ### 1. Prophet Probability Tracker
 - **URL**: https://prophet.latterdaytools.io
-- **GitHub**: https://github.com/cnoyes/apostles
+- **GitHub**: https://github.com/cnoyes/ldt-prophet
 - **Description**: Statistical analysis using Monte Carlo simulation to estimate apostolic succession probabilities
 - **Techniques**: Monte Carlo Simulation, Actuarial Modeling, Statistical Analysis, Data Visualization
 - **Tech Stack**: Next.js, TypeScript, Recharts, R, Tailwind CSS
 
 ### 2. Temple Construction Tracker
-- **URL**: https://claynoyes.shinyapps.io/temple-construction/
+- **URL**: https://temples.latterdaytools.io
+- **GitHub**: https://github.com/cnoyes/ldt-temples
 - **Description**: Interactive map visualization tracking temple construction progress worldwide
 - **Techniques**: Geospatial Analysis, Interactive Mapping, Data Visualization, Time Series Analysis
 - **Tech Stack**: R Shiny, Leaflet, ggplot2
